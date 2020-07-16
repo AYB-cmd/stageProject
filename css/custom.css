@@ -1,0 +1,29 @@
+#social-media{
+    position: absolute!important;
+    bottom: 4em!important;
+    right: -20em!important;
+}
+@media (max-width: 991px) {
+#social-media{
+    position: absolute!important;
+    bottom: 5em!important;
+    right: -24em!important;
+}
+}
+@media (max-width: 410px) {
+    #social-media{
+        position: absolute!important;
+        bottom: 4em!important;
+        right: -19em!important;
+    }
+    }
+#notre {
+    width: 100%;
+    height: auto;
+    padding: 1em;
+}
+#service {
+    padding-top: 20em!important;
+}
+    
+
